@@ -8,6 +8,7 @@ let filesToCache = [
   '/',
   '/index.html',
   '/detail.html',
+  '/flight.jpg',
   '/script/index.js',
   '/script/detail.js',
   '/style/index.css',
